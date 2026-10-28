@@ -1,4 +1,4 @@
-# cmuxp
+# cmux4linux
 
 A Linux-native terminal for running many coding agents side by side, inspired by
 [cmux](https://cmux.com). Rust + GTK4 + VTE, with a built-in WebKitGTK browser.
